@@ -8,4 +8,4 @@ Open `task1.Html` in your browser, or use the Live Server extension in VS Code.
 
 ## Author
 
-Muhammad Awaib
+Abdul Wahab
